@@ -1,7 +1,6 @@
 """
 *******************************
 *  James Andrew Ure 30653770  *
-*    FIT2004 ASSIGNMENT 4     *
 *Completed on 4th of June 2020*
 *******************************
 """
