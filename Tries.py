@@ -1,6 +1,5 @@
 # ***********************************
 # CODE MADE BY JAMES ANDREW URE
-# FIT 2004 ASSIGNMENT 3 SUBMISSION
 # COMPLETED 5/18/2020
 # ***********************************
 
